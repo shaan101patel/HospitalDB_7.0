@@ -196,7 +196,8 @@ This query will list the first name and last name of all patients who have insur
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.006.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 006](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a4ed41a8-f76c-4fc7-ba75-ffc62ae078ff)
+
 
 3. **The number of visits each patient has had.**
 
@@ -210,7 +211,7 @@ This query will list each patient's first name, last name, and the count of visi
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.007.jpeg)
+
 
 4. **List equipment model and which room it in**
 
@@ -224,7 +225,8 @@ This query will list each equipment model and its corresponding room number. If 
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.008.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 008](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/7244ec50-75b7-498e-ab86-bbaf4a3d8ec8)
+
 
 Advanced:
 
@@ -242,7 +244,8 @@ This SQL query retrieves the total amount invoiced per patient. It joins the 'Pa
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.009.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 009](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a0d26114-69ec-4033-98a2-fed2d6b68f18)
+
 
 6. **Determine which patient has the highest number of visits.**
 
@@ -258,7 +261,8 @@ This SQL query determines which patient has the highest number of visits. It ach
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.010.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 010](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/66da5b55-ec19-46f8-9c09-c541697c2b36)
+
 
 7. **All patients who have paid more than the average amount** SELECT Patients.firstName, Patients.lastName
 
@@ -276,7 +280,8 @@ This SQL query retrieves all patients who have paid more than the average amount
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.011.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 011](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a8afe6c1-f966-4cdd-abcb-70d17db7205e)
+
 
 8. **List the treatment for each diagnosis where treatment is ‘Massage Therapy’**
 
@@ -288,7 +293,8 @@ This SQL query retrieves the treatment for each diagnosis where the treatment is
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.012.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 012](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/9c09ebc4-70fd-4f8f-a8c7-477830515557)
+
 
 9. **List model that is not “Medicare Pro” within a procedure**
 
@@ -302,7 +308,8 @@ This SQL stored procedure named "modelNotMedicarePro" lists the model numbers an
 
 **Output:**
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.013.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 013](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/26bfdc58-eb99-4db7-b6e3-ad889ce1a55d)
+
 
 10. **Count all rooms that have equipment made by MediGear and are ready for use**
 
@@ -318,7 +325,10 @@ This SQL stored procedure named "modelNotMedicarePro" lists the model numbers an
 
 This SQL query retrieves the count of rooms that have equipment manufactured by "MediGear" and are ready for use. It accomplishes this by joining the "Equipments" and "Rooms" tables based on the room number, filtering for equipment made by "MediGear," and then grouping the results by the status of the rooms. Finally, it selects the count of rooms with the status "ready for use."
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.014.jpeg)
+**Output:**
+
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 014](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/87d27850-9b8f-4fbe-9089-c6d66367dfde)
+
 
 **Query Matrix**
 
