@@ -230,13 +230,13 @@ Advanced:
 
 5. **Get the total amount invoiced per patient**
 
-SELECT firstName, lastName, SUM(totalCharges) AS TotalInvoiced FROM Patients
+   SELECT firstName, lastName, SUM(totalCharges) AS TotalInvoiced FROM Patients
 
-JOIN Visits ON Patients.patientID = Visits.patientID
+   JOIN Visits ON Patients.patientID = Visits.patientID
 
-JOIN Invoices ON Visits.invoiceID = Invoices.invoiceID
+   JOIN Invoices ON Visits.invoiceID = Invoices.invoiceID
 
-GROUP BY firstName, lastName;
+   GROUP BY firstName, lastName;
 
 This SQL query retrieves the total amount invoiced per patient. It joins the 'Patients', 'Visits', and 'Invoices' tables based on their respective IDs, calculates the sum of total charges for each patient, and then groups the results by the patient's first name and last name.
 
@@ -246,13 +246,13 @@ This SQL query retrieves the total amount invoiced per patient. It joins the 'Pa
 
 6. **Determine which patient has the highest number of visits.**
 
-SELECT Patients.firstName, Patients.lastName, COUNT(Visits.visitID) AS VisitCount FROM Patients
+   SELECT Patients.firstName, Patients.lastName, COUNT(Visits.visitID) AS VisitCount FROM Patients
 
-JOIN Visits ON Patients.patientID = Visits.patientID
+   JOIN Visits ON Patients.patientID = Visits.patientID
 
-GROUP BY Patients.firstName, Patients.lastName
+   GROUP BY Patients.firstName, Patients.lastName
 
-ORDER BY VisitCount DESC;
+   ORDER BY VisitCount DESC;
 
 This SQL query determines which patient has the highest number of visits. It achieves this by joining the 'Patients' and 'Visits' tables based on the patient ID, then counts the number of visits for each patient. The results are grouped by patient first name and last name, ordered by the visit count in descending order, showing the patient with the highest number of visits first.
 
