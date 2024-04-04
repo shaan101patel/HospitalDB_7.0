@@ -195,8 +195,7 @@ This query will list the first name and last name of all patients who have insur
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 006](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a4ed41a8-f76c-4fc7-ba75-ffc62ae078ff)
-
+![project 1 query 2](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/4e296cb0-48f8-4a9b-8e41-d4ceb3be3655)
 
 3. **The number of visits each patient has had.**
 
@@ -225,8 +224,7 @@ This query will list each equipment model and its corresponding room number. If 
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 008](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/7244ec50-75b7-498e-ab86-bbaf4a3d8ec8)
-
+![p1 query 4](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/b62124c4-3271-40b2-9298-247d9e5b7237)
 
 Advanced:
 
@@ -244,8 +242,7 @@ This SQL query retrieves the total amount invoiced per patient. It joins the 'Pa
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 009](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a0d26114-69ec-4033-98a2-fed2d6b68f18)
-
+![project 1 query 5](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/eb02e704-1e3f-439f-bcea-9856c0e786e3)
 
 6. **Determine which patient has the highest number of visits.**
 
@@ -261,10 +258,10 @@ This SQL query determines which patient has the highest number of visits. It ach
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 010](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/66da5b55-ec19-46f8-9c09-c541697c2b36)
+![project 1 query 6](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/2baa82f3-44c3-454a-9a92-ca5c34052905)
 
-
-7. **All patients who have paid more than the average amount** SELECT Patients.firstName, Patients.lastName
+7. **All patients who have paid more than the average amount**
+   SELECT Patients.firstName, Patients.lastName
 
    FROM Patients
 
@@ -280,8 +277,7 @@ This SQL query retrieves all patients who have paid more than the average amount
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 011](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/a8afe6c1-f966-4cdd-abcb-70d17db7205e)
-
+![project 1 query 7](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/47420aac-95d6-4ace-9b33-bc5b563a4be5)
 
 8. **List the treatment for each diagnosis where treatment is ‘Massage Therapy’**
 
@@ -293,8 +289,7 @@ This SQL query retrieves the treatment for each diagnosis where the treatment is
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 012](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/9c09ebc4-70fd-4f8f-a8c7-477830515557)
-
+![project 1 query 8](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/2c02ee27-ebe8-46a7-8ea0-498b752e51e1)
 
 9. **List model that is not “Medicare Pro” within a procedure**
 
@@ -327,8 +322,7 @@ This SQL query retrieves the count of rooms that have equipment manufactured by 
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 014](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/87d27850-9b8f-4fbe-9089-c6d66367dfde)
-
+![project 1 query 10](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/ea0536a6-7092-47c9-a62c-183f6e8cb646)
 
 **Query Matrix**
 
