@@ -28,7 +28,7 @@ Services: Our clinic offers a wide range of emergency healthcare services, inclu
 
 Operating Hours: 24/7, 365 days a year, to ensure healthcare is available whenever it's needed.
 
-**Data Dictionary![ref1]**
+**Data Dictionary!**
 
 ***Table: Patients***
 
@@ -321,7 +321,7 @@ This SQL query retrieves the count of rooms that have equipment manufactured by 
 
 **Query Matrix**
 
-![ref1]
+
 
 
 
