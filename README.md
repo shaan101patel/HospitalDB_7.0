@@ -261,6 +261,7 @@ This SQL query determines which patient has the highest number of visits. It ach
 ![project 1 query 6](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/2baa82f3-44c3-454a-9a92-ca5c34052905)
 
 7. **All patients who have paid more than the average amount**
+   
    SELECT Patients.firstName, Patients.lastName
 
    FROM Patients
