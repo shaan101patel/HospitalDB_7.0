@@ -163,9 +163,9 @@ Operating Hours: 24/7, 365 days a year, to ensure healthcare is available whenev
 
 This overview should give the students a solid foundation to start with. It's crucial that they understand the complexity and sensitivity of healthcare data management and the importance of designing a database that is both robust and compliant with healthcare standards.
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.002.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 002](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/bca72fea-b027-4bcb-af40-ceb5392c17c6)
 
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.003.jpeg)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 003](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/1720eaf4-1239-438b-9897-957678049c26)
 
 **Queries![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.004.png)**
 
