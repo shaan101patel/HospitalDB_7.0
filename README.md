@@ -180,10 +180,8 @@ Simple:
 This SQL query retrieves the first names and last names of doctors whose salaries are above $200,000. It selects data from the "Doctors" table and filters it to include only those records where the doctor's salary is greater than $200,000.
 
 **Output:**
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 010](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/4c686947-e7c6-4100-848b-b0ad5fd843ef)
+![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 005](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/d647c1d1-d6fc-4d3e-9e56-987d3b9bf8b1)
 
-
-![](Aspose.Words.34fd6a39-0540-4884-aa9c-4faffdd2d2f0.005.png)
 
 2. **All the patients who have insurance.**
 
