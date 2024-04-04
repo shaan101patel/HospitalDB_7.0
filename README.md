@@ -211,6 +211,7 @@ This query will list each patient's first name, last name, and the count of visi
 
 **Output:**
 
+![project 1 query 3](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/767f18fb-abe7-4588-846f-c778b05cf03e)
 
 
 4. **List equipment model and which room it in**
