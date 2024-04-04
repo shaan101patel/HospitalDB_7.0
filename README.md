@@ -181,8 +181,7 @@ This SQL query retrieves the first names and last names of doctors whose salarie
 
 **Output:**
 
-![Aspose Words 34fd6a39-0540-4884-aa9c-4faffdd2d2f0 005](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/d647c1d1-d6fc-4d3e-9e56-987d3b9bf8b1)
-
+![project 1 query 1](https://github.com/shaan101patel/HospitalDB_7.0/assets/166060597/4b005f5a-5999-48b3-a0f0-ee442bd91711)
 
 2. **All the patients who have insurance.**
 
