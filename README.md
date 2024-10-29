@@ -1,17 +1,6 @@
-﻿MIST4610 Group Project I
+﻿MIST4610 
 
 Daniel Palomino, Shaan Patel, Zack Kendrick, Jack Burke, John Bell
-
-You:
-
-
-Pretend that you are the owner/operator of a emergency healthcare clinic needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client
-
-ChatGPT:
-
-Absolutely, I can help craft a comprehensive overview of the emergency healthcare clinic, which
-
-will be instrumental for the MIST 4610 class at the University of Georgia in developing a relational database tailored to our needs.
 
 **Business Overview**
 
